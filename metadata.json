@@ -1,0 +1,7 @@
+{
+  "name": "MAUNTRA Haven",
+  "description": "A secure, private, and survivor-centered support platform for individuals experiencing domestic violence, providing discreet access to emergency help, resources, and AI-guided support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
